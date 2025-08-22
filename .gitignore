@@ -37,5 +37,32 @@
 *.out
 *.app
 
-# debug information files
+# Debug information files
 *.dwo
+
+# -----------------------------
+# Arduino specific
+# -----------------------------
+# Arduino build intermediates
+*.ino.cpp
+*.ino.d
+*.ino.elf
+*.hex
+*.eep
+
+# Arduino build folders (default)
+build/
+.arduino/
+
+# -----------------------------
+# IDE / Editor files
+# -----------------------------
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db

@@ -1,8 +1,14 @@
-#include <stdio.h>
-
-int main()
+// C++ code
+//
+void setup()
 {
-    printf("Hello World");
+  pinMode(LED_BUILTIN, OUTPUT);
+}
 
-    return 0;
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
 }

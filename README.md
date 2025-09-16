@@ -30,11 +30,11 @@ Najdete zde zdrojové kódy, příklady a úlohy probírané na hodinách progra
 - Samostatné práce a projekty budou uvedeny v sekci `samostatna-prace`.  
 
 ## 📚 Odkazy
-- [Moodle kurz](https://eln.sps-prosek.cz/course/view.php?id=424)  
+- [Moodle kurz](https://eln.sps-prosek.cz/course/view.php?id=425)  
 - [Dokumentace k jazyku C](https://devdocs.io/c/)  
 - [Arduino – oficiální dokumentace](https://docs.arduino.cc/)  
 - [Arduino reference](https://www.arduino.cc/reference/en/)  
-- [ITnetwork](https://www.itnetwork.cz/c)  
+- [ITnetwork](https://www.itnetwork.cz/cecko)  
 - [w3schools C](https://www.w3schools.com/c/c_intro.php)  
 - [geeksforgeeks C](https://www.geeksforgeeks.org/c-programming-language/)  
 

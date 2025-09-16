@@ -1,3 +1,6 @@
+##################################
+# C / C++ build files
+##################################
 # Prerequisites
 *.d
 
@@ -41,6 +44,7 @@
 *.su
 *.idb
 *.pdb
+*.dwo
 
 # Kernel Module Compile Results
 *.mod*
@@ -51,5 +55,46 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# debug information files
-*.dwo
+
+##################################
+# Visual Studio Code
+##################################
+.vscode/
+.history/
+*.code-workspace
+
+
+##################################
+# Arduino IDE
+##################################
+# Arduino build output
+*.ino.cpp
+*.ino.d
+*.ino.o
+*.ino.hex
+*.ino.elf
+*.ino.bin
+
+# Arduino build folders
+build/
+.arduino/
+.arduinoIDE/
+.arduino-sketch/
+
+# PlatformIO (pokud bys používal)
+.pio/
+.pioenvs/
+.piolibdeps/
+.pioBuild/
+
+##################################
+# Misc
+##################################
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo

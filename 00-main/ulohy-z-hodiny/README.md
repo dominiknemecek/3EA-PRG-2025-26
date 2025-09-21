@@ -6,7 +6,7 @@ Tady najdete přehled všech hodin – co se probíralo, kdy to bylo a ve které
 |----------------------------|--------------------------------------|-------------------|-------------------|-------|
 | Opakování jazyka C  | `01-hodina-opakovani-c`          | 2025-09-12        | 2025-09-05        | Podmínky (If/else), cykly, DU č.1 |
 | Opakování jazyka C     | `02-hodina-opakovani-c`  | 2025-09-15        | 2025-09-08       | Podmínky (If/else), cykly, DU č.2 |
-| -      | ` -`                | -        | -      | - |  - |
+| Opakování jazyka C      | `03-hodina-opakovani-c`                | -        | 2025-09-22      | Podmínky (If/else), cykly, DU č.3 |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |

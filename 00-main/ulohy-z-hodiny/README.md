@@ -8,10 +8,10 @@ Tady najdete přehled všech hodin – co se probíralo, kdy to bylo a ve které
 | Opakování jazyka C     | `02-hodina-opakovani-c`  | 2025-09-15        | 2025-09-08       | Podmínky (If/else), cykly, DU č.2 |
 | Opakování jazyka C      | `03-hodina-opakovani-c`                | 2025-09-26        | 2025-09-22      | Podmínky (If/else), cykly, DU č.3 |
 | Opakování jazyka C      | `04-hodina-opakovani-c`                | 2025-09-29        | 2025-10-03      | Podmínky (If/else), cykly, pole DU č.4/5/6/7 | 
-| Opakování jazyka C      | `05-hodina-opakovani-c`                | 2025-10-10        | 2025-10-06     | Společné úlohy, shrnutí jazyka C |
-| Základy mikropočítačů      | `06-hodina-arduino`                | -        | -      | Představení platformy Arduino, IDE, simulace a první program |
+| Opakování jazyka C      | `-`                | 2025-10-10        | 2025-10-06     | Opakování na Moodle test |
+| Základy mikropočítačů      | `05-hodina-arduino`                | 2025-10-13        | 2025-10-17      | Představení platformy Arduino, IDE, simulace a první program + Moodle test |
+| Základy mikropočítačů      | `06-hodina-arduino`                | -        | -      | - |  - |
 | Základy mikropočítačů      | `07-hodina-arduino`                | -        | -      | - |  - |
-| Základy mikropočítačů      | `08-hodina-arduino`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |

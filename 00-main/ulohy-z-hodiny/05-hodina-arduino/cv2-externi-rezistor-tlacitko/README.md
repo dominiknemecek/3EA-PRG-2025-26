@@ -30,7 +30,7 @@ Ukázat zapojení s **externím pull-down rezistorem** a logiku tlačítka, kter
 
 ## 🎯 Zadání
 1. Zapoj tlačítko s **externím pull-down rezistorem**.  
-2. Použij `pinMode(PIN_BTN, INPUT);`.  
+2. Použij `pinMode(TLACITKO_PIN, INPUT);`.  
 3. Pokud je pin **HIGH**, rozsvit LED, jinak ji zhasni.  
 4. Přidej zpoždění 20 ms proti zákmitům.  
 5. (Bonus) Přidej výpis stavu tlačítka do Serial monitoru.

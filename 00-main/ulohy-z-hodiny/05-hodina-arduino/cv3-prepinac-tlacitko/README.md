@@ -20,8 +20,6 @@ V zapojení se používá **externí pull-down rezistor** (10 kΩ), který drž�
 
 ![Zapojení – Přepínač tlačítko](zapojeni-cv3.png)
 
-> 💡 Ulož obrázek do stejné složky jako `README.md` (např. z Tinkercad nebo Fritzing).
-
 ---
 
 ## 🧠 Princip

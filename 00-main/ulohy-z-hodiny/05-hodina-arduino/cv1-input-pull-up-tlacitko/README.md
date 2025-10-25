@@ -12,7 +12,7 @@ Naučit se používat **interní pull-up rezistor** na Arduinu a vysvětlit logi
 | 1× Arduino UNO | řídicí deska |
 | 1× Tlačítko | připojeno mezi pin **D2** a **GND** |
 | 1× LED (vestavěná nebo externí) | vestavěná LED na **D13**, nebo externí LED přes rezistor do GND |
-| 1× Rezistor (pokud LED externí) | 220–330 Ω |
+| 1× Rezistor (pokud LED externí) | 220 Ω |
 
 **Schéma zapojení:**
 
@@ -29,7 +29,7 @@ Naučit se používat **interní pull-up rezistor** na Arduinu a vysvětlit logi
 
 ## 🎯 Zadání
 1. Zapoj tlačítko dle schématu.  
-2. Použij `pinMode(PIN_BTN, INPUT_PULLUP);`.  
+2. Použij `pinMode(TLACITKO_PIN, INPUT_PULLUP);`.  
 3. Když je tlačítko stisknuté, rozsvit LED.  
 4. Přidej zpoždění 20 ms proti zákmitům.  
 5. (Bonus) Vypisuj stav tlačítka do Serial monitoru.

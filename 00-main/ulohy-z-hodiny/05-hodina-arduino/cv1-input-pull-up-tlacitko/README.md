@@ -43,4 +43,4 @@ Soubor: [`cv1-input-pull-up-tlacitko.ino`](./cv1-input-pull-up-tlacitko.ino)
 
 ## 🧪 Výsledek
 - LED svítí pouze při stisku tlačítka.  
-- V Serial monitoru se vypisuje „STISK“ / „UVOLNĚNO“.
+- V Serial monitoru se vypisuje „0“ / „1“.

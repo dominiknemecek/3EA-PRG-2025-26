@@ -6,18 +6,32 @@ void setup() {
   Serial.begin(9600);
 
   // Nastavení pinu jako vstupního s aktivovaným vnitřním pull-up rezistorem
-  // To znamená, že pin je standardně v logické hodnotě HIGH (1)
-  // a po stisku tlačítka se spojí se zemí (GND), čímž přejde do LOW (0)
+  // Pin je standardně v logické hodnotě HIGH (1)
+  // Po stisku tlačítka se spojí se zemí (GND) → přejde do LOW (0)
   pinMode(TLACITKO_PIN, INPUT_PULLUP);
+
+  // Nastavení vestavěné LED jako výstup
+  pinMode(LED_BUILTIN, OUTPUT);
+
+  // Na začátku LED vypneme (bezpečný výchozí stav)
+  digitalWrite(LED_BUILTIN, LOW);
 }
 
 void loop() {
-  // Přečteme aktuální stav tlačítka (HIGH = tlačítko není zmáčknuté, LOW = tlačítko je zmáčknuté)
+  // Načteme stav tlačítka
   int stavTlacitka = digitalRead(TLACITKO_PIN);
 
-  // Vypíšeme stav tlačítka do sériového monitoru
+  // Pokud je tlačítko stisknuté (LOW), rozsvítíme vestavěnou LED
+  // Jinak ji zhasneme
+  if (stavTlacitka == LOW) {
+    digitalWrite(LED_BUILTIN, HIGH);  // zapni LED
+  } else {
+    digitalWrite(LED_BUILTIN, LOW);   // zhasni LED
+  }
+
+  // Vypíšeme stav tlačítka do sériového monitoru (1 = puštěné, 0 = stisknuté)
   Serial.println(stavTlacitka);
 
-  // Krátká pauza, aby se výpis neobnovoval příliš rychle
+  // Krátká pauza pro přehlednější výpis
   delay(10);
 }

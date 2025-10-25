@@ -13,7 +13,7 @@ Ukázat zapojení s **externím pull-down rezistorem** a logiku tlačítka, kter
 | 1× Tlačítko | mezi pin **D2** a **+5V** |
 | 1× Rezistor | 10 kΩ mezi **D2** a **GND** (pull-down) |
 | 1× LED (vestavěná nebo externí) | vestavěná LED na **D13**, nebo externí LED přes rezistor do GND |
-| 1× Rezistor (pro LED) | 220–330 Ω |
+| 1× Rezistor (pro LED) | 220 Ω |
 
 **Schéma zapojení:**
 

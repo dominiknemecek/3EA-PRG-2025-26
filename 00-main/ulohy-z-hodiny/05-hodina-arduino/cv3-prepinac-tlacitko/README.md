@@ -13,8 +13,8 @@ V zapojení se používá **externí pull-down rezistor** (10 kΩ), který drž�
 | 1× Arduino UNO | řídicí deska |
 | 1× Tlačítko | jeden kontakt na **pin D2**, druhý na **+5 V** |
 | 1× Rezistor | **10 kΩ** mezi pinem **D2** a **GND** (pull-down) |
-| 1× LED dioda | připojena na **pin D12** přes rezistor 220–330 Ω do GND |
-| 1× Rezistor (pro LED) | 220–330 Ω |
+| 1× LED dioda | připojena na **pin D12** přes rezistor 220 Ω do GND |
+| 1× Rezistor (pro LED) | 220 Ω |
 
 **Schéma zapojení:**
 

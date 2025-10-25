@@ -33,7 +33,7 @@ V zapojení se používá **externí pull-down rezistor** (10 kΩ), který drž�
 
 ## 🎯 Zadání
 1. Zapoj tlačítko s **externím pull-down rezistorem** (10 kΩ mezi D2 a GND).  
-2. LED připoj na **pin D12** přes rezistor 220–330 Ω do GND.  
+2. LED připoj na **pin D12** přes rezistor 220 Ω do GND.  
 3. V programu nastav:
    - pin tlačítka jako `INPUT`,  
    - pin LED jako `OUTPUT`,  

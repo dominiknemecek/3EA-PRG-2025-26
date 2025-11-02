@@ -10,10 +10,10 @@ Tady najdete přehled všech hodin – co se probíralo, kdy to bylo a ve které
 | Opakování jazyka C      | `04-hodina-opakovani-c`                | 2025-09-29        | 2025-10-03      | Podmínky (If/else), cykly, pole DU č.4/5/6/7 | 
 | Opakování jazyka C      | `-`                | 2025-10-10        | 2025-10-06     | Opakování na Moodle test |
 | Základy mikropočítačů      | `-`                | 2025-10-13        | 2025-10-17      | Představení platformy Arduino, IDE, simulace a první program + Moodle test |
-| Základy mikropočítačů      | `05-hodina-arduino`                | 2025-10-24        | 2025-10-20      | Platforma Arduino, základní zapojení, programování komponent (LED, tlačítko) | 
-| Základy mikropočítačů      | `06-hodina-arduino`                | -        | -      | - |  - |
-| -      | ` -`                | -        | -      | - |  - |
-| -      | ` -`                | -        | -      | - |  - |
+| Základy mikropočítačů      | `05-hodina-arduino`                | 2025-10-24        | 2025-10-20      | Platforma Arduino, základní zapojení, programování komponent (LED, tlačítko) - simulace | 
+| Základy mikropočítačů      | `06-hodina-arduino`                | -        | 2025-10-31      | Platforma Arduino, základní zapojení, programování komponent (LED, tlačítko) - fyzické zapojení |
+| Základy mikropočítačů       | `07-hodina-arduino`                | -        | 2025-11-02      | Platforma Arduino, programování komponent (LED, tlačítko), ukázka funkce millis - fyzické zapojení |
+| Základy mikropočítačů       | `08-hodina-arduino`                | -        | 2025-11-07      | - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |

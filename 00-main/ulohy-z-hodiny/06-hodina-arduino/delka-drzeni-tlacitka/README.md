@@ -27,8 +27,11 @@ V zapojení se používá externí pull-down rezistor (10 kΩ), který drží vs
 - Externí pull-down rezistor (10 kΩ) drží pin v logické hodnotě LOW.
 - Po stisku tlačítka se pin propojí na +5 V → čteme HIGH.
 - Program pomocí dvou stavů rozpozná:
+- 
     -> stisk (LOW → HIGH) → uloží čas začátku (millis()), rozsvítí LED,
+  
     -> puštění (HIGH → LOW) → spočítá délku stisku a LED zhasne.
+  
 - Doba držení tlačítka se vypíše v milisekundách do Serial Monitoru.
 
 ---
@@ -39,10 +42,15 @@ V zapojení se používá externí pull-down rezistor (10 kΩ), který drží vs
 3. V programu:
    
     -> načítejte stav tlačítka pomocí digitalRead(),
+   
     -> detekujte přechody:
+   
     -> LOW → HIGH = začátek držení,
+   
     -> HIGH → LOW = konec držení,
+   
     -> ukládejte čas pomocí millis().
+   
 5. Po puštění tlačítka vypište do Serial Monitoru dobu, po kterou bylo stlačeno.
 
 ---

@@ -26,7 +26,7 @@ Díky tomu může Arduino zároveň provádět více úkolů a není „zmrzlé�
 - Funkce `millis()` vrací čas od spuštění programu v milisekundách.
 - Program si uloží čas posledního bliknutí do proměnné predchoziCas.
 - Pokaždé porovnává:
-- 
+  
     → „Uběhl už INTERVAL od poslední změny stavu?“
 
 - Pokud ano:

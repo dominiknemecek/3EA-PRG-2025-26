@@ -37,12 +37,13 @@ V zapojení se používá externí pull-down rezistor (10 kΩ), který drží vs
 1. Zapojte tlačítko s externím pull-down rezistorem (10 kΩ mezi D2 a GND).
 2. LED připojte na pin D12 přes rezistor 220 Ω do GND.
 3. V programu:
+   
     -> načítejte stav tlačítka pomocí digitalRead(),
     -> detekujte přechody:
     -> LOW → HIGH = začátek držení,
     -> HIGH → LOW = konec držení,
     -> ukládejte čas pomocí millis().
-4. Po puštění tlačítka vypište do Serial Monitoru dobu, po kterou bylo stlačeno.
+5. Po puštění tlačítka vypište do Serial Monitoru dobu, po kterou bylo stlačeno.
 
 ---
 

@@ -54,12 +54,13 @@ Soubor: [`delka-drzeni-tlacitka.ino`](./delka-drzeni-tlacitka.ino)
 ## 🧪 Výsledek
 - LED dioda svítí pouze při držení tlačítka.
 - Po puštění se do Serial Monitoru vypíše:
-    -> Drzel jsi tlacitko XXX ms
+
+  -> Drzel jsi tlacitko XXX ms
 - Program správně detekuje stisk i puštění (hrany), ne jen aktuální stav.
   
 ---
 
 ## 📘 Poznámka
-Toto cvičení ukazuje praktické použití funkce millis(), která umožňuje měřit čas bez blokování programu.
+Toto cvičení ukazuje praktické použití funkce `millis()`, která umožňuje měřit čas bez blokování programu.
 Stejný princip se používá např. pro dlouhé stisky, časovače, hry, debouncing tlačítek nebo jednoduché stopky.
 

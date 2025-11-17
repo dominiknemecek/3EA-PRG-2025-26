@@ -73,7 +73,11 @@ Soubor: [`millis-led-a-intervaly.ino`](./millis-led-a-intervaly.ino)
 - Ovládání více úloh pomocí `millis()` je základ pro:
 
     → semafory
+  
     → časovače
+  
     → animace LED
+  
     → čtení senzorů bez zpoždění
+  
     → multitasking bez použití `delay()`

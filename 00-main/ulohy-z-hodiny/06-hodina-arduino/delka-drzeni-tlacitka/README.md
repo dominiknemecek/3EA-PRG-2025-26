@@ -27,7 +27,7 @@ V zapojení se používá externí pull-down rezistor (10 kΩ), který drží vs
 - Externí pull-down rezistor (10 kΩ) drží pin v logické hodnotě LOW.
 - Po stisku tlačítka se pin propojí na +5 V → čteme HIGH.
 - Program pomocí dvou stavů rozpozná:
-- 
+ 
     -> stisk (LOW → HIGH) → uloží čas začátku (millis()), rozsvítí LED,
   
     -> puštění (HIGH → LOW) → spočítá délku stisku a LED zhasne.

@@ -14,6 +14,7 @@ Tady najdete přehled všech hodin – co se probíralo, kdy to bylo a ve které
 | Základy mikropočítačů      | `-`                | 2025-11-10        | 2025-10-31      | Platforma Arduino, základní zapojení, programování komponent (LED, tlačítko) - fyzické zapojení (zapojení + kód ve složce 05-hodina-arduino) |
 | Základy mikropočítačů       | `06-hodina-arduino`                | 2025-11-14        | 2025-11-02      | Platforma Arduino, programování komponent (LED, tlačítko), ukázka funkce millis - fyzické zapojení |
 | Základy mikropočítačů       | `07-hodina-arduino`                | -        | 2025-11-07      | Platforma Arduino, programování komponent (LED, tlačítko), millis, analogové piny - fyzické zapojení |
+| Základy mikropočítačů       | `08-hodina-arduino`                | -        | 2025-11-21      | Platforma Arduino, programování komponent (LED, tlačítko), millis, analogové piny - fyzické zapojení |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
